@@ -7,7 +7,7 @@ Markdown
 [![Dataset Size](https://img.shields.io/badge/Entries-25%2C847-orange)](anime.csv) 
 [![Crawl Status](https://img.shields.io/badge/Status-Completed-success)]()
 
-Repository: https://github.com/its-ethan-04-u/Scraping-https-myanimelist.net-
+Repository: https://github.com/its-ethan-04-u/Scraping-MyAnimeList
 
 ## Project Highlight
 Successfully scraped **25,847 complete anime entries** from MyAnimeList.net — one of the largest publicly available, single-developer MAL datasets ever created.
